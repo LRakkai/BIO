@@ -662,3 +662,20 @@ spann{
     
     
 }
+
+
+@media (max-width: 380px) {
+    .home-text-img {
+        height: 16rem;
+        width: 11rem;
+    }
+
+    .home-img-hiasan-1, .home-img-hiasan-2 {
+        height: 15.5rem;
+        width: 10.5rem;
+    }
+
+    .select-page {
+        transform: translateY(105%);
+    }
+}
