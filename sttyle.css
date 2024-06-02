@@ -8,7 +8,16 @@
 }
 
 
+:root{
 
+    --bg-white: rgb(30, 30, 30);
+    --bg-white-young: rgb(40, 40, 40);
+    --bg-black: #f0f0f0;
+    
+    --font-color-oranye-young: #fa642e;
+    --font-color-oranye: #bc3f00;
+    --font-black-young: #ffffff87;
+}
 
 html.dark-mode {
     --bg-white: #dddddd;
