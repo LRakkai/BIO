@@ -542,7 +542,7 @@ spann{
     }
 
     .select-page {
-        transform: translateY(85%);
+        transform: translateY(95%);
     }    
 
     .select-click-page {
@@ -593,15 +593,15 @@ spann{
     }
 
     .home-text-img{
-        height: 21rem;
-        width: 15rem;
+        height: 18rem;
+        width: 12rem;
         margin-left: 4rem;
-        margin-top: -5rem;
+        margin-top: -3rem;
     }
 
     .home-img-hiasan-1, .home-img-hiasan-2 {
-        height: 20rem;
-        width: 14rem;
+        height: 17.5rem;
+        width: 11.5rem;
     }
 
     .select-click-page {
